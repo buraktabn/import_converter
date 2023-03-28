@@ -15,3 +15,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Exclude files in the `test` folder from the import conversion process.
 - Retrieves the project name from the `pubspec.yaml` file.
 - Command-line options for specifying the path and revert action.
+
+## [1.0.0+1] - 2023-03-28
+
+### Added
+
+- Removed lib directory.
+
+## [1.0.0+2] - 2023-03-28
+
+### Added
+
+- Added executables to `pubspec.yaml`.
